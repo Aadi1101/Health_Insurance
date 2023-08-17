@@ -13,7 +13,7 @@ list_of_files = [
     "src/pipes/__init__.py",
     "src/pipes/predict_pipeline.py",
     "app.py",
-    "DOCKERFILE",
+    "Dockerfile",
     "notebooks/trails.ipynb",
     "setup.py",
     "requirements.txt"
